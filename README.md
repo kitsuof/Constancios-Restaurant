@@ -6,3 +6,14 @@ This project was created under the official permission of Constancio's Restauran
 
 # Video Documentary
 https://github.com/user-attachments/assets/400c53dc-089e-49e7-a6da-a7d8ae6481eb
+
+# Team Members
+- **Christoff** – Team Lead / Front-End Developer
+- **Gimel** – Graphic Designer
+- **Eunice**  – Content Editor / Data Collection
+- **William** – Tester / Documentation & Vlog
+
+# Course Information
+- **Course Code**: WS101 – Web System
+- **Instructor**: M. Lintag
+- **Term**: Second Semester, A.Y. 2024–2025
